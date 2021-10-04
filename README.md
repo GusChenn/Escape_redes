@@ -9,6 +9,7 @@ modified: '2021-10-04T20:10:19.186Z'
 **Gustavo Donnini Chen,
 guschen@usp.br**
 
+## Para ver fórmulas no formato certo, abrir o PDF. Para dar ctrl + F, Pesquisar pela página do github.
 ## Tópicos a serem abordados:
 
 1. Introdução
